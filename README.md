@@ -17,8 +17,9 @@ Or install it yourself as:
     $ gem install lindedata_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```````ruby
+LindeData_ViewTool::Renderrer.copyright "LindeData", "All rights reserved"
+```````
 
 ## Development
 

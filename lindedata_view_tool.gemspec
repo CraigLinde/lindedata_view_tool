@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{First ruby gem for learning purposes.}
   spec.description   = %q{creates a copyright symbol and date for a web page}
-  spec.homepage      = "https://lindedata.com"
+  spec.homepage      = "https://github.com/CraigLinde/lindedata_view_tool"
   spec.license       = "MIT"
 
 
